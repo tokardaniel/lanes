@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  db:
+    container_name: roads_db
+    image: kartoza/postgis
+    environment:
+      DEFAULT_ENCODING: "UTF8"
+      POSTGRES_DBNAME: "roads"
+      POSTGRES_USER: "postgres"
