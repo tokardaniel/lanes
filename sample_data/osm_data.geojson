@@ -1,0 +1,7113 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-19T19:29:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8108722",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "maxspeed:type": "HU:urban",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0654592,
+            47.5296402
+          ],
+          [
+            19.0657078,
+            47.5297706
+          ],
+          [
+            19.0660899,
+            47.5306313
+          ],
+          [
+            19.0664341,
+            47.5314035
+          ],
+          [
+            19.0664848,
+            47.5315111
+          ]
+        ]
+      },
+      "id": "way/8108722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895303",
+        "highway": "residential",
+        "name": "Huba utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0636639,
+            47.5254056
+          ],
+          [
+            19.0639114,
+            47.5253535
+          ],
+          [
+            19.065283,
+            47.5250648
+          ],
+          [
+            19.0653961,
+            47.525041
+          ]
+        ]
+      },
+      "id": "way/10895303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895358",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lcn": "yes",
+        "name": "Kassák Lajos utca",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0661158,
+            47.5227383
+          ],
+          [
+            19.0671428,
+            47.5237886
+          ],
+          [
+            19.0671979,
+            47.523846
+          ],
+          [
+            19.0678673,
+            47.5245436
+          ],
+          [
+            19.067932,
+            47.524616
+          ],
+          [
+            19.0684792,
+            47.5252274
+          ],
+          [
+            19.0685286,
+            47.5252827
+          ],
+          [
+            19.069032,
+            47.5258059
+          ],
+          [
+            19.0693716,
+            47.5261589
+          ],
+          [
+            19.0694348,
+            47.5262726
+          ],
+          [
+            19.0694638,
+            47.5263769
+          ],
+          [
+            19.0694532,
+            47.5264879
+          ],
+          [
+            19.0693099,
+            47.5275815
+          ],
+          [
+            19.0691777,
+            47.5284047
+          ],
+          [
+            19.0691903,
+            47.528497
+          ],
+          [
+            19.069217,
+            47.5285686
+          ],
+          [
+            19.0692925,
+            47.5287347
+          ]
+        ]
+      },
+      "id": "way/10895358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895431",
+        "highway": "residential",
+        "name": "Rózsafa utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0674413,
+            47.5246268
+          ],
+          [
+            19.0678229,
+            47.52548
+          ],
+          [
+            19.0683208,
+            47.5266007
+          ]
+        ]
+      },
+      "id": "way/10895431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895774",
+        "cycleway:left": "lane",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Pannónia utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589485,
+            47.5255991
+          ],
+          [
+            19.0589893,
+            47.5256671
+          ],
+          [
+            19.0591297,
+            47.5259288
+          ]
+        ]
+      },
+      "id": "way/10895774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895811",
+        "highway": "service",
+        "name": "Dráva utca",
+        "oneway": "yes",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0571926,
+            47.5263999
+          ],
+          [
+            19.0586645,
+            47.5260347
+          ]
+        ]
+      },
+      "id": "way/10895811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895900",
+        "highway": "living_street",
+        "name": "Dunyov István utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0692925,
+            47.5287347
+          ],
+          [
+            19.0692336,
+            47.5287482
+          ],
+          [
+            19.0689158,
+            47.5288172
+          ],
+          [
+            19.0686054,
+            47.5288808
+          ],
+          [
+            19.0677412,
+            47.5290649
+          ],
+          [
+            19.0672179,
+            47.5291754
+          ]
+        ]
+      },
+      "id": "way/10895900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/10895962",
+        "highway": "residential",
+        "name": "Zsilip utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0657836,
+            47.5307034
+          ],
+          [
+            19.0656552,
+            47.5307278
+          ],
+          [
+            19.0639838,
+            47.5310466
+          ]
+        ]
+      },
+      "id": "way/10895962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/18660228",
+        "highway": "living_street",
+        "lit": "yes",
+        "name": "Déryné köz"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0691307,
+            47.5303654
+          ],
+          [
+            19.0686214,
+            47.5306976
+          ],
+          [
+            19.068158,
+            47.5310014
+          ],
+          [
+            19.0680496,
+            47.5310738
+          ]
+        ]
+      },
+      "id": "way/18660228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23681395",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lcn": "proposed",
+        "maxspeed": "50",
+        "name": "Pannónia utca",
+        "oneway": "yes",
+        "source:maxspeed": "HU:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589485,
+            47.5255991
+          ],
+          [
+            19.0588908,
+            47.5254883
+          ],
+          [
+            19.0586527,
+            47.5250309
+          ],
+          [
+            19.0585205,
+            47.524777
+          ],
+          [
+            19.0582182,
+            47.5241963
+          ],
+          [
+            19.0580794,
+            47.5239351
+          ],
+          [
+            19.0576741,
+            47.5231511
+          ],
+          [
+            19.0576276,
+            47.5230616
+          ],
+          [
+            19.0575999,
+            47.5230085
+          ],
+          [
+            19.0572239,
+            47.5222815
+          ],
+          [
+            19.0568054,
+            47.5214818
+          ],
+          [
+            19.0563971,
+            47.5206978
+          ]
+        ]
+      },
+      "id": "way/23681395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24203383",
+        "highway": "residential",
+        "name": "Visegrádi utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0612786,
+            47.5250423
+          ],
+          [
+            19.0611289,
+            47.5247332
+          ],
+          [
+            19.0611011,
+            47.5246759
+          ],
+          [
+            19.0608767,
+            47.5242127
+          ],
+          [
+            19.0604862,
+            47.5234068
+          ],
+          [
+            19.060262,
+            47.5229438
+          ],
+          [
+            19.0601734,
+            47.522761
+          ],
+          [
+            19.0600541,
+            47.5225148
+          ],
+          [
+            19.0597037,
+            47.5217915
+          ],
+          [
+            19.0596891,
+            47.5217613
+          ],
+          [
+            19.0596698,
+            47.5217215
+          ],
+          [
+            19.0594519,
+            47.5212716
+          ],
+          [
+            19.0592795,
+            47.5209158
+          ],
+          [
+            19.0588887,
+            47.520109
+          ]
+        ]
+      },
+      "id": "way/24203383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24203408",
+        "highway": "residential",
+        "name": "Visegrádi utca",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0620716,
+            47.5266787
+          ],
+          [
+            19.0621113,
+            47.5267649
+          ],
+          [
+            19.062554,
+            47.5277754
+          ],
+          [
+            19.062649,
+            47.5279922
+          ],
+          [
+            19.062811,
+            47.5283618
+          ],
+          [
+            19.0630104,
+            47.528817
+          ],
+          [
+            19.063252,
+            47.5293685
+          ],
+          [
+            19.0634936,
+            47.5299199
+          ]
+        ]
+      },
+      "id": "way/24203408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25077936",
+        "highway": "secondary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0637109,
+            47.52427
+          ],
+          [
+            19.0636293,
+            47.5244555
+          ],
+          [
+            19.0635935,
+            47.5245337
+          ],
+          [
+            19.063557,
+            47.5246437
+          ],
+          [
+            19.0635501,
+            47.5247536
+          ],
+          [
+            19.0634974,
+            47.5250334
+          ]
+        ]
+      },
+      "id": "way/25077936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25077996",
+        "highway": "secondary_link",
+        "lanes": "1",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0634974,
+            47.5250334
+          ],
+          [
+            19.0633142,
+            47.5248801
+          ],
+          [
+            19.063211,
+            47.5247813
+          ],
+          [
+            19.0630651,
+            47.5247256
+          ],
+          [
+            19.0628891,
+            47.5247082
+          ],
+          [
+            19.0626852,
+            47.5247062
+          ]
+        ]
+      },
+      "id": "way/25077996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38169369",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "50",
+        "name": "Népfürdő utca",
+        "surface": "asphalt",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0574165,
+            47.5298672
+          ],
+          [
+            19.0574433,
+            47.5299217
+          ],
+          [
+            19.0576215,
+            47.5303121
+          ],
+          [
+            19.0579403,
+            47.5310167
+          ],
+          [
+            19.0579779,
+            47.5310998
+          ],
+          [
+            19.0580072,
+            47.5311592
+          ],
+          [
+            19.0582148,
+            47.5315815
+          ],
+          [
+            19.0584581,
+            47.5320827
+          ],
+          [
+            19.0589462,
+            47.5331512
+          ]
+        ]
+      },
+      "id": "way/38169369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38169379",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589485,
+            47.5255991
+          ],
+          [
+            19.0597549,
+            47.5254064
+          ]
+        ]
+      },
+      "id": "way/38169379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38169396",
+        "cycleway:right": "lane",
+        "highway": "residential",
+        "lcn": "proposed",
+        "lit": "yes",
+        "name": "Hegedűs Gyula utca",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0576258,
+            47.5204074
+          ],
+          [
+            19.058018,
+            47.5212044
+          ],
+          [
+            19.0583696,
+            47.5219581
+          ],
+          [
+            19.0583964,
+            47.5220126
+          ],
+          [
+            19.058788,
+            47.5227942
+          ],
+          [
+            19.0588211,
+            47.5228607
+          ],
+          [
+            19.059224,
+            47.5236673
+          ],
+          [
+            19.0593291,
+            47.5238672
+          ],
+          [
+            19.05938,
+            47.5239705
+          ],
+          [
+            19.0596445,
+            47.5245078
+          ],
+          [
+            19.059837,
+            47.5248987
+          ]
+        ]
+      },
+      "id": "way/38169396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38169399",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0612786,
+            47.5250423
+          ],
+          [
+            19.0622668,
+            47.5248062
+          ]
+        ]
+      },
+      "id": "way/38169399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42188223",
+        "highway": "residential",
+        "name": "Apály utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0667371,
+            47.5280889
+          ],
+          [
+            19.0650993,
+            47.5284135
+          ],
+          [
+            19.0649477,
+            47.5284426
+          ]
+        ]
+      },
+      "id": "way/42188223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42188225",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "name": "Angyalföldi út",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0680496,
+            47.5310738
+          ],
+          [
+            19.0677405,
+            47.5303724
+          ],
+          [
+            19.0677075,
+            47.5302976
+          ],
+          [
+            19.0676861,
+            47.5302471
+          ],
+          [
+            19.0673655,
+            47.529518
+          ],
+          [
+            19.0672179,
+            47.5291754
+          ]
+        ]
+      },
+      "id": "way/42188225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42188235",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Csángó utca",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0685286,
+            47.5252827
+          ],
+          [
+            19.0678229,
+            47.52548
+          ],
+          [
+            19.0657652,
+            47.5258798
+          ]
+        ]
+      },
+      "id": "way/42188235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42188237",
+        "highway": "residential",
+        "name": "Angyalföldi út",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0662657,
+            47.5270169
+          ],
+          [
+            19.0661373,
+            47.5267252
+          ],
+          [
+            19.0660054,
+            47.5264254
+          ],
+          [
+            19.0657652,
+            47.5258798
+          ]
+        ]
+      },
+      "id": "way/42188237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42188240",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0620716,
+            47.5266787
+          ],
+          [
+            19.0619555,
+            47.5267078
+          ],
+          [
+            19.0610493,
+            47.526927
+          ],
+          [
+            19.0609166,
+            47.5269582
+          ],
+          [
+            19.0608089,
+            47.5269826
+          ]
+        ]
+      },
+      "id": "way/42188240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42188243",
+        "highway": "residential",
+        "name": "Apály utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0667371,
+            47.5280889
+          ],
+          [
+            19.0687464,
+            47.5276967
+          ],
+          [
+            19.0693099,
+            47.5275815
+          ]
+        ]
+      },
+      "id": "way/42188243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46608599",
+        "highway": "residential",
+        "name": "Pulszky utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0617042,
+            47.5258358
+          ],
+          [
+            19.0627838,
+            47.5255992
+          ],
+          [
+            19.0631909,
+            47.52551
+          ],
+          [
+            19.0634194,
+            47.5254575
+          ],
+          [
+            19.0636639,
+            47.5254056
+          ]
+        ]
+      },
+      "id": "way/46608599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46608605",
+        "highway": "residential",
+        "name": "Janicsár utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0660899,
+            47.5306313
+          ],
+          [
+            19.0677075,
+            47.5302976
+          ]
+        ]
+      },
+      "id": "way/46608605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46608607",
+        "highway": "living_street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0686054,
+            47.5288808
+          ],
+          [
+            19.06866,
+            47.5285064
+          ],
+          [
+            19.0687237,
+            47.528088
+          ],
+          [
+            19.0687464,
+            47.5276967
+          ]
+        ]
+      },
+      "id": "way/46608607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46608608",
+        "highway": "living_street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0668983,
+            47.5284556
+          ],
+          [
+            19.0687237,
+            47.528088
+          ]
+        ]
+      },
+      "id": "way/46608608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615910",
+        "highway": "living_street",
+        "name": "Párkány utca",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0598533,
+            47.529404
+          ],
+          [
+            19.0601258,
+            47.5300206
+          ],
+          [
+            19.0606205,
+            47.5311402
+          ],
+          [
+            19.0608995,
+            47.5317076
+          ],
+          [
+            19.0611574,
+            47.5322904
+          ]
+        ]
+      },
+      "id": "way/46615910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615912",
+        "highway": "living_street",
+        "maxspeed": "30",
+        "name": "Vizafogó sétány",
+        "oneway": "yes",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.058989,
+            47.5295663
+          ],
+          [
+            19.0592263,
+            47.530125
+          ],
+          [
+            19.0592071,
+            47.5302387
+          ],
+          [
+            19.0592438,
+            47.530321
+          ],
+          [
+            19.0594035,
+            47.5306799
+          ],
+          [
+            19.0594609,
+            47.5307446
+          ],
+          [
+            19.0595223,
+            47.5308111
+          ],
+          [
+            19.0596207,
+            47.5310457
+          ],
+          [
+            19.059732,
+            47.5313111
+          ],
+          [
+            19.0597545,
+            47.5314388
+          ],
+          [
+            19.0598419,
+            47.5316577
+          ],
+          [
+            19.059906,
+            47.531791
+          ],
+          [
+            19.0600275,
+            47.5319237
+          ],
+          [
+            19.0602632,
+            47.5324638
+          ],
+          [
+            19.0602815,
+            47.5325824
+          ],
+          [
+            19.060366,
+            47.5327753
+          ],
+          [
+            19.0604545,
+            47.5329492
+          ],
+          [
+            19.0605835,
+            47.5330915
+          ],
+          [
+            19.0607561,
+            47.5334744
+          ],
+          [
+            19.0608061,
+            47.5335854
+          ]
+        ]
+      },
+      "id": "way/46615912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615917",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0612395,
+            47.5305375
+          ],
+          [
+            19.0613488,
+            47.5305165
+          ],
+          [
+            19.0614109,
+            47.5305046
+          ],
+          [
+            19.0614404,
+            47.5304989
+          ],
+          [
+            19.0620619,
+            47.5303791
+          ],
+          [
+            19.0620279,
+            47.5302988
+          ],
+          [
+            19.0619888,
+            47.5302063
+          ]
+        ]
+      },
+      "id": "way/46615917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615918",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0607488,
+            47.5294469
+          ],
+          [
+            19.0609526,
+            47.5294021
+          ],
+          [
+            19.061057,
+            47.5293833
+          ],
+          [
+            19.0615881,
+            47.5292827
+          ],
+          [
+            19.0615535,
+            47.5292091
+          ],
+          [
+            19.0615168,
+            47.5291203
+          ]
+        ]
+      },
+      "id": "way/46615918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615924",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0579044,
+            47.5300925
+          ],
+          [
+            19.0586987,
+            47.5299375
+          ],
+          [
+            19.0586363,
+            47.5297931
+          ],
+          [
+            19.0585736,
+            47.5296461
+          ]
+        ]
+      },
+      "id": "way/46615924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615925",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0578419,
+            47.5299567
+          ],
+          [
+            19.0586363,
+            47.5297931
+          ]
+        ]
+      },
+      "id": "way/46615925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615926",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0583131,
+            47.5309716
+          ],
+          [
+            19.0590572,
+            47.5308233
+          ],
+          [
+            19.0591602,
+            47.5308022
+          ],
+          [
+            19.0592494,
+            47.5307839
+          ],
+          [
+            19.0594609,
+            47.5307446
+          ]
+        ]
+      },
+      "id": "way/46615926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615928",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0583691,
+            47.5310936
+          ],
+          [
+            19.059123,
+            47.5309462
+          ]
+        ]
+      },
+      "id": "way/46615928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615929",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0584343,
+            47.5312372
+          ],
+          [
+            19.0591915,
+            47.5310909
+          ],
+          [
+            19.059123,
+            47.5309462
+          ]
+        ]
+      },
+      "id": "way/46615929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615933",
+        "highway": "living_street",
+        "name": "Vizafogó sétány",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.059732,
+            47.5313111
+          ],
+          [
+            19.0602226,
+            47.5312167
+          ],
+          [
+            19.0606205,
+            47.5311402
+          ],
+          [
+            19.061187,
+            47.5310258
+          ]
+        ]
+      },
+      "id": "way/46615933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615935",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.060504,
+            47.5283085
+          ],
+          [
+            19.0604423,
+            47.5281626
+          ]
+        ]
+      },
+      "id": "way/46615935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615936",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0602987,
+            47.5283481
+          ],
+          [
+            19.0604392,
+            47.528321
+          ],
+          [
+            19.0605041,
+            47.5283085
+          ],
+          [
+            19.060504,
+            47.5283085
+          ],
+          [
+            19.0605954,
+            47.5282909
+          ],
+          [
+            19.0611323,
+            47.5281875
+          ],
+          [
+            19.0611069,
+            47.5281274
+          ],
+          [
+            19.0610707,
+            47.5280416
+          ]
+        ]
+      },
+      "id": "way/46615936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615937",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0604423,
+            47.5281626
+          ],
+          [
+            19.0605535,
+            47.528137
+          ],
+          [
+            19.0610707,
+            47.5280416
+          ],
+          [
+            19.061261,
+            47.5280049
+          ]
+        ]
+      },
+      "id": "way/46615937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615941",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0614404,
+            47.5304989
+          ],
+          [
+            19.0613673,
+            47.530326
+          ]
+        ]
+      },
+      "id": "way/46615941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46615942",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Hegedűs Gyula utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.060052,
+            47.5253354
+          ],
+          [
+            19.0600954,
+            47.5254081
+          ],
+          [
+            19.0601823,
+            47.5255966
+          ],
+          [
+            19.0603135,
+            47.5258775
+          ],
+          [
+            19.0603237,
+            47.5258994
+          ],
+          [
+            19.0606556,
+            47.5266096
+          ],
+          [
+            19.0607841,
+            47.5269284
+          ],
+          [
+            19.0608089,
+            47.5269826
+          ]
+        ]
+      },
+      "id": "way/46615942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70930431",
+        "highway": "service",
+        "maxspeed": "50",
+        "source:maxspeed": "HU:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0567303,
+            47.5255084
+          ],
+          [
+            19.0567943,
+            47.5254924
+          ],
+          [
+            19.0575073,
+            47.5253153
+          ],
+          [
+            19.058203,
+            47.5251425
+          ],
+          [
+            19.0585469,
+            47.5250572
+          ],
+          [
+            19.0586527,
+            47.5250309
+          ]
+        ]
+      },
+      "id": "way/70930431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70930432",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0575073,
+            47.5253153
+          ],
+          [
+            19.0575339,
+            47.5253642
+          ],
+          [
+            19.0576488,
+            47.5255752
+          ],
+          [
+            19.0583445,
+            47.5254024
+          ],
+          [
+            19.05823,
+            47.5251921
+          ],
+          [
+            19.058203,
+            47.5251425
+          ]
+        ]
+      },
+      "id": "way/70930432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84678503",
+        "highway": "living_street",
+        "name": "Párkány utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0626798,
+            47.5344374
+          ],
+          [
+            19.0623393,
+            47.5336551
+          ],
+          [
+            19.0622024,
+            47.5333282
+          ],
+          [
+            19.0619522,
+            47.5327363
+          ],
+          [
+            19.0616873,
+            47.5321772
+          ],
+          [
+            19.061187,
+            47.5310258
+          ],
+          [
+            19.061149,
+            47.5309419
+          ],
+          [
+            19.0611252,
+            47.5308826
+          ],
+          [
+            19.0604522,
+            47.529366
+          ],
+          [
+            19.0604169,
+            47.5292926
+          ]
+        ]
+      },
+      "id": "way/84678503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84678504",
+        "highway": "residential",
+        "name": "Véső utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0604169,
+            47.5292926
+          ],
+          [
+            19.0606672,
+            47.5292449
+          ]
+        ]
+      },
+      "id": "way/84678504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84678507",
+        "highway": "residential",
+        "lit": "yes",
+        "name": "Angyalföldi út"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0680496,
+            47.5310738
+          ],
+          [
+            19.068114,
+            47.5311822
+          ],
+          [
+            19.0682636,
+            47.5312784
+          ],
+          [
+            19.0683236,
+            47.5313181
+          ],
+          [
+            19.0684104,
+            47.5313745
+          ]
+        ]
+      },
+      "id": "way/84678507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105911652",
+        "bicycle": "yes",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány",
+        "source:name": "http://einfoszab.budapest.hu/list/fovarosi-kozgyules-nyilvanos-ulesei;parenttype=2;parentid=6669;type=3;id=88591"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.058989,
+            47.5295663
+          ],
+          [
+            19.0589288,
+            47.5294108
+          ],
+          [
+            19.0588009,
+            47.5290968
+          ],
+          [
+            19.0586421,
+            47.5286997
+          ],
+          [
+            19.0586038,
+            47.528624
+          ],
+          [
+            19.0585765,
+            47.5285632
+          ],
+          [
+            19.058496,
+            47.5283835
+          ],
+          [
+            19.0584796,
+            47.5283485
+          ],
+          [
+            19.0583654,
+            47.5281042
+          ],
+          [
+            19.0581289,
+            47.5276239
+          ]
+        ]
+      },
+      "id": "way/105911652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105911654",
+        "highway": "pedestrian"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0570288,
+            47.5290637
+          ],
+          [
+            19.057122,
+            47.5290426
+          ],
+          [
+            19.0573384,
+            47.5289953
+          ],
+          [
+            19.0576556,
+            47.5289238
+          ],
+          [
+            19.0579758,
+            47.5288488
+          ],
+          [
+            19.0586421,
+            47.5286997
+          ]
+        ]
+      },
+      "id": "way/105911654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105911655",
+        "highway": "pedestrian",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.056875,
+            47.5287818
+          ],
+          [
+            19.0569841,
+            47.5287548
+          ],
+          [
+            19.0571808,
+            47.528703
+          ],
+          [
+            19.0574655,
+            47.5286359
+          ],
+          [
+            19.0575115,
+            47.5286235
+          ],
+          [
+            19.0578171,
+            47.5285509
+          ],
+          [
+            19.0578879,
+            47.5285341
+          ],
+          [
+            19.0580662,
+            47.5284899
+          ],
+          [
+            19.058496,
+            47.5283835
+          ]
+        ]
+      },
+      "id": "way/105911655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105918787",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0609526,
+            47.5294021
+          ],
+          [
+            19.0608774,
+            47.5292433
+          ]
+        ]
+      },
+      "id": "way/105918787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105918789",
+        "highway": "service",
+        "name": "Véső utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0608774,
+            47.5292433
+          ],
+          [
+            19.0609998,
+            47.529219
+          ],
+          [
+            19.0615168,
+            47.5291203
+          ],
+          [
+            19.0617151,
+            47.5290779
+          ]
+        ]
+      },
+      "id": "way/105918789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105918790",
+        "highway": "residential",
+        "name": "Véső utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0650161,
+            47.5285929
+          ],
+          [
+            19.0648641,
+            47.5285285
+          ],
+          [
+            19.064793,
+            47.5285013
+          ],
+          [
+            19.0647483,
+            47.5284834
+          ],
+          [
+            19.0646964,
+            47.5284868
+          ],
+          [
+            19.0644131,
+            47.5285459
+          ],
+          [
+            19.0630104,
+            47.528817
+          ]
+        ]
+      },
+      "id": "way/105918790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922054",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Visegrádi utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0640817,
+            47.5281212
+          ],
+          [
+            19.062811,
+            47.5283618
+          ]
+        ]
+      },
+      "id": "way/105922054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922055",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Visegrádi utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0639272,
+            47.5277501
+          ],
+          [
+            19.062649,
+            47.5279922
+          ]
+        ]
+      },
+      "id": "way/105922055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922057",
+        "highway": "service",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0638367,
+            47.5275324
+          ],
+          [
+            19.0637753,
+            47.5272104
+          ],
+          [
+            19.06386,
+            47.527135
+          ]
+        ]
+      },
+      "id": "way/105922057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922058",
+        "highway": "service",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0638367,
+            47.5275324
+          ],
+          [
+            19.0639272,
+            47.5277501
+          ],
+          [
+            19.0640817,
+            47.5281212
+          ]
+        ]
+      },
+      "id": "way/105922058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922060",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Visegrádi köz",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.062554,
+            47.5277754
+          ],
+          [
+            19.063347,
+            47.5276252
+          ],
+          [
+            19.0638367,
+            47.5275324
+          ]
+        ]
+      },
+      "id": "way/105922060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922061",
+        "highway": "service",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0641646,
+            47.5270538
+          ],
+          [
+            19.0639324,
+            47.527106
+          ],
+          [
+            19.06386,
+            47.527135
+          ]
+        ]
+      },
+      "id": "way/105922061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105922062",
+        "highway": "service",
+        "oneway": "yes",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0647483,
+            47.5284834
+          ],
+          [
+            19.0641646,
+            47.5270538
+          ]
+        ]
+      },
+      "id": "way/105922062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107123897",
+        "highway": "living_street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0677765,
+            47.5294277
+          ],
+          [
+            19.0679143,
+            47.5297104
+          ]
+        ]
+      },
+      "id": "way/107123897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107123898",
+        "highway": "living_street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0673655,
+            47.529518
+          ],
+          [
+            19.0677765,
+            47.5294277
+          ],
+          [
+            19.0682872,
+            47.5293151
+          ],
+          [
+            19.0684185,
+            47.5295866
+          ],
+          [
+            19.0683748,
+            47.5297107
+          ],
+          [
+            19.0680011,
+            47.5297931
+          ],
+          [
+            19.0681689,
+            47.5301418
+          ]
+        ]
+      },
+      "id": "way/107123898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107123899",
+        "highway": "living_street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0676861,
+            47.5302471
+          ],
+          [
+            19.0681689,
+            47.5301418
+          ],
+          [
+            19.0684169,
+            47.5300871
+          ]
+        ]
+      },
+      "id": "way/107123899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113849138",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0654226,
+            47.5295534
+          ],
+          [
+            19.0654592,
+            47.5296402
+          ]
+        ]
+      },
+      "id": "way/113849138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113849139",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "lanes": "4",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0654592,
+            47.5296402
+          ],
+          [
+            19.0656705,
+            47.5300901
+          ],
+          [
+            19.065904,
+            47.5306167
+          ]
+        ]
+      },
+      "id": "way/113849139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113849143",
+        "highway": "residential",
+        "name": "Süllő utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0654226,
+            47.5295534
+          ],
+          [
+            19.0652557,
+            47.5295851
+          ],
+          [
+            19.0651532,
+            47.5296046
+          ],
+          [
+            19.0634936,
+            47.5299199
+          ]
+        ]
+      },
+      "id": "way/113849143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114471025",
+        "highway": "service",
+        "name": "Révész utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0627838,
+            47.5255992
+          ],
+          [
+            19.0631539,
+            47.5264321
+          ]
+        ]
+      },
+      "id": "way/114471025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114471026",
+        "highway": "service",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0635594,
+            47.5263388
+          ],
+          [
+            19.0631909,
+            47.52551
+          ]
+        ]
+      },
+      "id": "way/114471026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114471033",
+        "highway": "service",
+        "maxspeed": "30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0640817,
+            47.5281212
+          ],
+          [
+            19.0643185,
+            47.528335
+          ],
+          [
+            19.0644131,
+            47.5285459
+          ]
+        ]
+      },
+      "id": "way/114471033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122871929",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0580518,
+            47.5248893
+          ],
+          [
+            19.0577641,
+            47.524334
+          ],
+          [
+            19.0580103,
+            47.5242759
+          ],
+          [
+            19.0582976,
+            47.5248304
+          ]
+        ]
+      },
+      "id": "way/122871929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123155025",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0570134,
+            47.526049
+          ],
+          [
+            19.0571865,
+            47.5260101
+          ],
+          [
+            19.0578336,
+            47.5258654
+          ],
+          [
+            19.0580027,
+            47.525825
+          ]
+        ]
+      },
+      "id": "way/123155025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124809385",
+        "highway": "service",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0596467,
+            47.5274539
+          ],
+          [
+            19.0598846,
+            47.527401
+          ],
+          [
+            19.0599041,
+            47.5274457
+          ],
+          [
+            19.0602987,
+            47.5283481
+          ],
+          [
+            19.0606672,
+            47.5292449
+          ],
+          [
+            19.0606799,
+            47.5292889
+          ],
+          [
+            19.0607488,
+            47.5294469
+          ],
+          [
+            19.0612395,
+            47.5305375
+          ],
+          [
+            19.0613554,
+            47.5308376
+          ]
+        ]
+      },
+      "id": "way/124809385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124809386",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0613673,
+            47.530326
+          ],
+          [
+            19.0614819,
+            47.5303039
+          ],
+          [
+            19.0619888,
+            47.5302063
+          ],
+          [
+            19.0621758,
+            47.5301702
+          ]
+        ]
+      },
+      "id": "way/124809386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128169312",
+        "highway": "residential",
+        "name": "Angyalföldi út",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0653961,
+            47.525041
+          ],
+          [
+            19.0652397,
+            47.5246977
+          ],
+          [
+            19.0651865,
+            47.5245809
+          ],
+          [
+            19.0650356,
+            47.5242496
+          ],
+          [
+            19.0647517,
+            47.5236515
+          ],
+          [
+            19.0647143,
+            47.5235726
+          ]
+        ]
+      },
+      "id": "way/128169312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128169500",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Huba utca",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0653961,
+            47.525041
+          ],
+          [
+            19.0674413,
+            47.5246268
+          ],
+          [
+            19.0677482,
+            47.5245669
+          ],
+          [
+            19.0678673,
+            47.5245436
+          ]
+        ]
+      },
+      "id": "way/128169500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128169686",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "lanes": "10",
+        "lanes:backward": "6",
+        "lanes:forward": "4",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|left|through|through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0634974,
+            47.5250334
+          ],
+          [
+            19.0636639,
+            47.5254056
+          ]
+        ]
+      },
+      "id": "way/128169686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128169687",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "lanes": "6",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0636639,
+            47.5254056
+          ],
+          [
+            19.0637463,
+            47.5256014
+          ],
+          [
+            19.063858,
+            47.5258667
+          ],
+          [
+            19.0640154,
+            47.5262407
+          ]
+        ]
+      },
+      "id": "way/128169687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128576184",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0613554,
+            47.5308376
+          ],
+          [
+            19.0611252,
+            47.5308826
+          ]
+        ]
+      },
+      "id": "way/128576184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128576185",
+        "highway": "service",
+        "oneway": "yes",
+        "service": "parking_aisle",
+        "surface": "unpaved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0613554,
+            47.5308376
+          ],
+          [
+            19.0613796,
+            47.5308953
+          ],
+          [
+            19.0616234,
+            47.5314526
+          ],
+          [
+            19.0617574,
+            47.5317669
+          ],
+          [
+            19.061914,
+            47.5321342
+          ],
+          [
+            19.0616873,
+            47.5321772
+          ]
+        ]
+      },
+      "id": "way/128576185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129104743",
+        "highway": "living_street",
+        "name": "Kassák Lajos utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0689158,
+            47.5288172
+          ],
+          [
+            19.0688046,
+            47.5298035
+          ],
+          [
+            19.068829,
+            47.5299343
+          ],
+          [
+            19.0688753,
+            47.5300523
+          ],
+          [
+            19.0689267,
+            47.5301418
+          ],
+          [
+            19.0690233,
+            47.5302579
+          ],
+          [
+            19.0691307,
+            47.5303654
+          ]
+        ]
+      },
+      "id": "way/129104743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129104763",
+        "highway": "living_street",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.06866,
+            47.5285064
+          ],
+          [
+            19.0675968,
+            47.5287241
+          ],
+          [
+            19.0677412,
+            47.5290649
+          ]
+        ]
+      },
+      "id": "way/129104763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129381357",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "lanes": "8",
+        "lanes:backward": "5",
+        "lanes:forward": "3",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|left|through|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0632884,
+            47.5245619
+          ],
+          [
+            19.0634974,
+            47.5250334
+          ]
+        ]
+      },
+      "id": "way/129381357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130273533",
+        "highway": "residential",
+        "lcn": "yes",
+        "name": "Viza utca",
+        "note": "not an official cycleway, no cycleway sign or mark, only recommended with little gree signs",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0574899,
+            47.5298522
+          ],
+          [
+            19.0575178,
+            47.5298472
+          ],
+          [
+            19.0577735,
+            47.5298011
+          ]
+        ]
+      },
+      "id": "way/130273533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130273535",
+        "highway": "residential",
+        "name": "Viza utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0577735,
+            47.5298011
+          ],
+          [
+            19.0585736,
+            47.5296461
+          ],
+          [
+            19.0586972,
+            47.5296219
+          ],
+          [
+            19.058989,
+            47.5295663
+          ],
+          [
+            19.0598533,
+            47.529404
+          ],
+          [
+            19.0604169,
+            47.5292926
+          ]
+        ]
+      },
+      "id": "way/130273535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130273536",
+        "highway": "living_street",
+        "lcn": "yes",
+        "maxspeed": "30",
+        "name": "Népfürdő utca",
+        "note": "HU: összekötő szakasz... EN: not an official cycleway, no cycleway sign or mark, only recommended with little green signs"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0600684,
+            47.5347265
+          ],
+          [
+            19.0599583,
+            47.5344918
+          ],
+          [
+            19.0597559,
+            47.5340817
+          ],
+          [
+            19.0595216,
+            47.5335881
+          ],
+          [
+            19.0595071,
+            47.5335569
+          ],
+          [
+            19.0594403,
+            47.5334172
+          ],
+          [
+            19.0593958,
+            47.5333281
+          ],
+          [
+            19.0589582,
+            47.5324171
+          ],
+          [
+            19.0589301,
+            47.5323547
+          ],
+          [
+            19.0588794,
+            47.5322417
+          ],
+          [
+            19.0588415,
+            47.5321574
+          ],
+          [
+            19.0584439,
+            47.5312566
+          ],
+          [
+            19.0584343,
+            47.5312372
+          ],
+          [
+            19.0583691,
+            47.5310936
+          ],
+          [
+            19.0583354,
+            47.5310193
+          ],
+          [
+            19.0583131,
+            47.5309716
+          ],
+          [
+            19.0579158,
+            47.5301148
+          ],
+          [
+            19.0579044,
+            47.5300925
+          ],
+          [
+            19.0578419,
+            47.5299567
+          ],
+          [
+            19.0578052,
+            47.5298746
+          ],
+          [
+            19.0577735,
+            47.5298011
+          ]
+        ]
+      },
+      "id": "way/130273536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137614132",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "oneway": "yes",
+        "segregated": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0625497,
+            47.5248645
+          ],
+          [
+            19.0613252,
+            47.5251285
+          ]
+        ]
+      },
+      "id": "way/137614132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137617153",
+        "access": "yes",
+        "highway": "footway",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0603237,
+            47.5258994
+          ],
+          [
+            19.0605028,
+            47.5258639
+          ],
+          [
+            19.0607428,
+            47.5256652
+          ],
+          [
+            19.060907,
+            47.5255292
+          ],
+          [
+            19.0611493,
+            47.5255717
+          ],
+          [
+            19.0614996,
+            47.5256332
+          ],
+          [
+            19.0615864,
+            47.5256162
+          ]
+        ]
+      },
+      "id": "way/137617153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139781534",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0574646,
+            47.5246451
+          ],
+          [
+            19.0576051,
+            47.524918
+          ],
+          [
+            19.0576409,
+            47.5249877
+          ]
+        ]
+      },
+      "id": "way/139781534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155603210",
+        "highway": "path",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0607428,
+            47.5256652
+          ],
+          [
+            19.0608005,
+            47.5256874
+          ],
+          [
+            19.060867,
+            47.5257029
+          ],
+          [
+            19.0609148,
+            47.5257057
+          ],
+          [
+            19.0609593,
+            47.5257021
+          ],
+          [
+            19.0610008,
+            47.5256904
+          ],
+          [
+            19.0610332,
+            47.5256776
+          ],
+          [
+            19.0610647,
+            47.5256632
+          ],
+          [
+            19.0610893,
+            47.5256468
+          ],
+          [
+            19.0611142,
+            47.5256243
+          ],
+          [
+            19.0611308,
+            47.5256019
+          ],
+          [
+            19.0611493,
+            47.5255717
+          ]
+        ]
+      },
+      "id": "way/155603210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155603211",
+        "access": "yes",
+        "highway": "footway",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0602464,
+            47.5253883
+          ],
+          [
+            19.0603462,
+            47.5254459
+          ],
+          [
+            19.060907,
+            47.5255292
+          ],
+          [
+            19.0612881,
+            47.5252203
+          ],
+          [
+            19.0613485,
+            47.525173
+          ]
+        ]
+      },
+      "id": "way/155603211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155745031",
+        "highway": "residential",
+        "name": "Tisza utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0585205,
+            47.524777
+          ],
+          [
+            19.0595827,
+            47.5245226
+          ],
+          [
+            19.0596445,
+            47.5245078
+          ],
+          [
+            19.0608767,
+            47.5242127
+          ],
+          [
+            19.0629297,
+            47.5237209
+          ]
+        ]
+      },
+      "id": "way/155745031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155745532",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0586645,
+            47.5260347
+          ],
+          [
+            19.0593729,
+            47.5273218
+          ]
+        ]
+      },
+      "id": "way/155745532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159548291",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0583654,
+            47.5281042
+          ],
+          [
+            19.0577328,
+            47.5282553
+          ],
+          [
+            19.0573251,
+            47.5283519
+          ],
+          [
+            19.056835,
+            47.528467
+          ]
+        ]
+      },
+      "id": "way/159548291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159555877",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0583445,
+            47.5254024
+          ],
+          [
+            19.0584411,
+            47.5255743
+          ]
+        ]
+      },
+      "id": "way/159555877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159555881",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0576488,
+            47.5255752
+          ],
+          [
+            19.057727,
+            47.5257236
+          ]
+        ]
+      },
+      "id": "way/159555881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159555884",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0565911,
+            47.5252405
+          ],
+          [
+            19.0571548,
+            47.5251041
+          ],
+          [
+            19.0574005,
+            47.5250452
+          ],
+          [
+            19.0576409,
+            47.5249877
+          ],
+          [
+            19.0580518,
+            47.5248893
+          ],
+          [
+            19.0582976,
+            47.5248304
+          ],
+          [
+            19.0585205,
+            47.524777
+          ]
+        ]
+      },
+      "id": "way/159555884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159576065",
+        "crossing_ref": "zebra",
+        "footway": "crossing",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0578885,
+            47.5311193
+          ],
+          [
+            19.0579779,
+            47.5310998
+          ],
+          [
+            19.0581146,
+            47.5310669
+          ]
+        ]
+      },
+      "id": "way/159576065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159576067",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0579158,
+            47.5301148
+          ],
+          [
+            19.0578544,
+            47.5301061
+          ],
+          [
+            19.0576721,
+            47.5301391
+          ],
+          [
+            19.0576507,
+            47.5301385
+          ]
+        ]
+      },
+      "id": "way/159576067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159576070",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0576721,
+            47.5301391
+          ],
+          [
+            19.0581146,
+            47.5310669
+          ]
+        ]
+      },
+      "id": "way/159576070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584030",
+        "highway": "footway",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0606556,
+            47.5266096
+          ],
+          [
+            19.0602739,
+            47.5266888
+          ]
+        ]
+      },
+      "id": "way/159584030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584032",
+        "highway": "footway",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0605954,
+            47.5282909
+          ],
+          [
+            19.0606192,
+            47.5283586
+          ]
+        ]
+      },
+      "id": "way/159584032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584035",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0600988,
+            47.5267889
+          ],
+          [
+            19.0602739,
+            47.5266888
+          ]
+        ]
+      },
+      "id": "way/159584035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584038",
+        "highway": "footway",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.061057,
+            47.5293833
+          ],
+          [
+            19.0610845,
+            47.5294447
+          ]
+        ]
+      },
+      "id": "way/159584038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584040",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0603135,
+            47.5258775
+          ],
+          [
+            19.0598162,
+            47.5259979
+          ],
+          [
+            19.0595198,
+            47.5260697
+          ]
+        ]
+      },
+      "id": "way/159584040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584044",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0606192,
+            47.5283586
+          ],
+          [
+            19.0609756,
+            47.5291636
+          ],
+          [
+            19.0609998,
+            47.529219
+          ]
+        ]
+      },
+      "id": "way/159584044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584048",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0601823,
+            47.5255966
+          ],
+          [
+            19.0595083,
+            47.5257481
+          ],
+          [
+            19.0594268,
+            47.5255631
+          ]
+        ]
+      },
+      "id": "way/159584048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584049",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0598967,
+            47.5264232
+          ],
+          [
+            19.0599991,
+            47.5263832
+          ],
+          [
+            19.0598893,
+            47.5261521
+          ]
+        ]
+      },
+      "id": "way/159584049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584050",
+        "highway": "service",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0593205,
+            47.5262758
+          ],
+          [
+            19.0596877,
+            47.5261959
+          ],
+          [
+            19.0598893,
+            47.5261521
+          ],
+          [
+            19.0598162,
+            47.5259979
+          ]
+        ]
+      },
+      "id": "way/159584050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584056",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0611629,
+            47.5296143
+          ],
+          [
+            19.0614935,
+            47.5295472
+          ],
+          [
+            19.0616983,
+            47.530053
+          ],
+          [
+            19.0613946,
+            47.5301152
+          ]
+        ]
+      },
+      "id": "way/159584056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584058",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0602403,
+            47.527434
+          ],
+          [
+            19.0605338,
+            47.5273825
+          ],
+          [
+            19.0607472,
+            47.5278739
+          ],
+          [
+            19.0604615,
+            47.5279305
+          ]
+        ]
+      },
+      "id": "way/159584058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584060",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0614819,
+            47.5303039
+          ],
+          [
+            19.0614553,
+            47.5302463
+          ],
+          [
+            19.0613946,
+            47.5301152
+          ],
+          [
+            19.0611629,
+            47.5296143
+          ],
+          [
+            19.0610845,
+            47.5294447
+          ]
+        ]
+      },
+      "id": "way/159584060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584061",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0601151,
+            47.5271475
+          ],
+          [
+            19.0601826,
+            47.5273045
+          ],
+          [
+            19.0602403,
+            47.527434
+          ],
+          [
+            19.0604615,
+            47.5279305
+          ],
+          [
+            19.0605325,
+            47.52809
+          ],
+          [
+            19.0605535,
+            47.528137
+          ]
+        ]
+      },
+      "id": "way/159584061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159584062",
+        "highway": "footway",
+        "surface": "gravel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0601735,
+            47.5271339
+          ],
+          [
+            19.0600637,
+            47.5268962
+          ],
+          [
+            19.0600988,
+            47.5267889
+          ],
+          [
+            19.0600395,
+            47.5266524
+          ],
+          [
+            19.0599209,
+            47.5265596
+          ],
+          [
+            19.0598859,
+            47.526496
+          ],
+          [
+            19.0598967,
+            47.5264232
+          ],
+          [
+            19.0597809,
+            47.5263541
+          ],
+          [
+            19.0596877,
+            47.5261959
+          ]
+        ]
+      },
+      "id": "way/159584062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159591537",
+        "highway": "footway",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0588849,
+            47.5300225
+          ],
+          [
+            19.0586972,
+            47.5296219
+          ]
+        ]
+      },
+      "id": "way/159591537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159591539",
+        "highway": "footway",
+        "layer": "-1",
+        "surface": "paved",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589045,
+            47.5300662
+          ],
+          [
+            19.0588849,
+            47.5300225
+          ]
+        ]
+      },
+      "id": "way/159591539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159591542",
+        "highway": "footway",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0593855,
+            47.5311813
+          ],
+          [
+            19.0592494,
+            47.5307839
+          ],
+          [
+            19.0589966,
+            47.5302191
+          ],
+          [
+            19.0589661,
+            47.5302037
+          ],
+          [
+            19.0589045,
+            47.5300662
+          ]
+        ]
+      },
+      "id": "way/159591542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179877691",
+        "highway": "residential",
+        "name": "Klapka utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0694638,
+            47.5263769
+          ],
+          [
+            19.0683208,
+            47.5266007
+          ],
+          [
+            19.0669956,
+            47.5268691
+          ],
+          [
+            19.0662657,
+            47.5270169
+          ]
+        ]
+      },
+      "id": "way/179877691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179877694",
+        "highway": "service",
+        "service": "parking_aisle",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0671261,
+            47.5239149
+          ],
+          [
+            19.0674413,
+            47.5246268
+          ]
+        ]
+      },
+      "id": "way/179877694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179877695",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "name": "Csángó utca",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "parking:condition:left": "ticket",
+        "parking:condition:left:time_interval": "Mo-Fr 08:30-18:00",
+        "parking:condition:right": "ticket",
+        "parking:condition:right:time_interval": "Mo-Fr 08:30-18:00",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0700918,
+            47.5242257
+          ],
+          [
+            19.0685286,
+            47.5252827
+          ]
+        ]
+      },
+      "id": "way/179877695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188492690",
+        "highway": "secondary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Dózsa György út",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0637109,
+            47.52427
+          ],
+          [
+            19.0632884,
+            47.5245619
+          ]
+        ]
+      },
+      "id": "way/188492690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188492693",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0631329,
+            47.524198
+          ],
+          [
+            19.0632884,
+            47.5245619
+          ]
+        ]
+      },
+      "id": "way/188492693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208089015",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0577328,
+            47.5282553
+          ],
+          [
+            19.0578879,
+            47.5285341
+          ]
+        ]
+      },
+      "id": "way/208089015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208094729",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0572998,
+            47.5289237
+          ],
+          [
+            19.0576202,
+            47.52885
+          ],
+          [
+            19.0578287,
+            47.5288021
+          ],
+          [
+            19.0579374,
+            47.5287771
+          ],
+          [
+            19.0581855,
+            47.5287201
+          ],
+          [
+            19.0586038,
+            47.528624
+          ]
+        ]
+      },
+      "id": "way/208094729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208286587",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0576556,
+            47.5289238
+          ],
+          [
+            19.0576202,
+            47.52885
+          ],
+          [
+            19.0575848,
+            47.5287763
+          ],
+          [
+            19.0575115,
+            47.5286235
+          ]
+        ]
+      },
+      "id": "way/208286587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208286602",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0578287,
+            47.5288021
+          ],
+          [
+            19.0577934,
+            47.5287318
+          ],
+          [
+            19.0578974,
+            47.528706
+          ],
+          [
+            19.0581462,
+            47.5286442
+          ]
+        ]
+      },
+      "id": "way/208286602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208286603",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0579374,
+            47.5287771
+          ],
+          [
+            19.0579758,
+            47.5288488
+          ]
+        ]
+      },
+      "id": "way/208286603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208286604",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0578974,
+            47.528706
+          ],
+          [
+            19.0578171,
+            47.5285509
+          ]
+        ]
+      },
+      "id": "way/208286604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208286605",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0581855,
+            47.5287201
+          ],
+          [
+            19.0581462,
+            47.5286442
+          ],
+          [
+            19.0580662,
+            47.5284899
+          ]
+        ]
+      },
+      "id": "way/208286605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288020",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány",
+        "source:name": "http://einfoszab.budapest.hu/list/fovarosi-kozgyules-nyilvanos-ulesei;parenttype=2;parentid=6669;type=3;id=88591"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589288,
+            47.5294108
+          ],
+          [
+            19.0590299,
+            47.5293653
+          ],
+          [
+            19.0589636,
+            47.5292161
+          ],
+          [
+            19.0589008,
+            47.5290747
+          ],
+          [
+            19.0588639,
+            47.5289856
+          ],
+          [
+            19.0587711,
+            47.5287827
+          ],
+          [
+            19.0587541,
+            47.5287444
+          ],
+          [
+            19.0586421,
+            47.5286997
+          ]
+        ]
+      },
+      "id": "way/208288020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288021",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589008,
+            47.5290747
+          ],
+          [
+            19.0588009,
+            47.5290968
+          ]
+        ]
+      },
+      "id": "way/208288021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288022",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány",
+        "source:name": "http://einfoszab.budapest.hu/list/fovarosi-kozgyules-nyilvanos-ulesei;parenttype=2;parentid=6669;type=3;id=88591"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0592042,
+            47.5294827
+          ],
+          [
+            19.0590763,
+            47.5291946
+          ],
+          [
+            19.0589735,
+            47.5289629
+          ],
+          [
+            19.0588849,
+            47.5287594
+          ],
+          [
+            19.0587788,
+            47.5285215
+          ],
+          [
+            19.0586815,
+            47.5283034
+          ],
+          [
+            19.0585861,
+            47.5280893
+          ]
+        ]
+      },
+      "id": "way/208288022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288026",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589636,
+            47.5292161
+          ],
+          [
+            19.0590763,
+            47.5291946
+          ]
+        ]
+      },
+      "id": "way/208288026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288028",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0588639,
+            47.5289856
+          ],
+          [
+            19.0589735,
+            47.5289629
+          ]
+        ]
+      },
+      "id": "way/208288028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288030",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0587711,
+            47.5287827
+          ],
+          [
+            19.0588849,
+            47.5287594
+          ]
+        ]
+      },
+      "id": "way/208288030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288032",
+        "highway": "pedestrian",
+        "name": "Vizafogó sétány"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0587788,
+            47.5285215
+          ],
+          [
+            19.0585765,
+            47.5285632
+          ]
+        ]
+      },
+      "id": "way/208288032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208288034",
+        "highway": "pedestrian",
+        "name": "Tom Lantos sétány"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0586815,
+            47.5283034
+          ],
+          [
+            19.0584796,
+            47.5283485
+          ]
+        ]
+      },
+      "id": "way/208288034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225613684",
+        "highway": "residential",
+        "lcn": "proposed",
+        "maxspeed": "50",
+        "name": "Révész utca",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0640154,
+            47.5262407
+          ],
+          [
+            19.0638354,
+            47.5262753
+          ],
+          [
+            19.0637726,
+            47.5262902
+          ],
+          [
+            19.0635594,
+            47.5263388
+          ],
+          [
+            19.0631539,
+            47.5264321
+          ],
+          [
+            19.0621455,
+            47.5266617
+          ],
+          [
+            19.0620716,
+            47.5266787
+          ]
+        ]
+      },
+      "id": "way/225613684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225613685",
+        "cycleway:left": "lane",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0612786,
+            47.5250423
+          ],
+          [
+            19.0603188,
+            47.5252713
+          ]
+        ]
+      },
+      "id": "way/225613685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225613686",
+        "highway": "residential",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "name": "Visegrádi utca",
+        "trolley_wire": "no",
+        "turn:lanes:backward": "left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0612786,
+            47.5250423
+          ],
+          [
+            19.0613252,
+            47.5251285
+          ]
+        ]
+      },
+      "id": "way/225613686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245009605",
+        "cycleway:left": "lane",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0603188,
+            47.5252713
+          ],
+          [
+            19.060052,
+            47.5253354
+          ]
+        ]
+      },
+      "id": "way/245009605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245009607",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0597549,
+            47.5254064
+          ],
+          [
+            19.060052,
+            47.5253354
+          ]
+        ]
+      },
+      "id": "way/245009607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245009608",
+        "highway": "service",
+        "name": "Dráva utca",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0586645,
+            47.5260347
+          ],
+          [
+            19.0591297,
+            47.5259288
+          ]
+        ]
+      },
+      "id": "way/245009608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245009609",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0580027,
+            47.525825
+          ],
+          [
+            19.0588737,
+            47.525617
+          ],
+          [
+            19.0589485,
+            47.5255991
+          ]
+        ]
+      },
+      "id": "way/245009609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245009610",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "lcn": "yes",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0622668,
+            47.5248062
+          ],
+          [
+            19.0626107,
+            47.524724
+          ]
+        ]
+      },
+      "id": "way/245009610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245009611",
+        "highway": "residential",
+        "lanes": "2",
+        "lcn": "proposed",
+        "lit": "yes",
+        "name": "Hegedűs Gyula utca",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.059837,
+            47.5248987
+          ],
+          [
+            19.060052,
+            47.5253354
+          ]
+        ]
+      },
+      "id": "way/245009611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262231238",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "maxspeed:type": "HU:urban",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0661561,
+            47.5316025
+          ],
+          [
+            19.0661016,
+            47.5314686
+          ],
+          [
+            19.0657836,
+            47.5307034
+          ],
+          [
+            19.0654244,
+            47.529839
+          ],
+          [
+            19.0654592,
+            47.5296402
+          ]
+        ]
+      },
+      "id": "way/262231238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262551674",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0644918,
+            47.5273761
+          ],
+          [
+            19.0649477,
+            47.5284426
+          ]
+        ]
+      },
+      "id": "way/262551674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262551676",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "lanes": "7",
+        "lanes:backward": "4",
+        "lanes:forward": "3",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt",
+        "turn:lanes:forward": "none|none|slight_right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0649477,
+            47.5284426
+          ],
+          [
+            19.0650161,
+            47.5285929
+          ],
+          [
+            19.0653807,
+            47.5294554
+          ],
+          [
+            19.0654226,
+            47.5295534
+          ]
+        ]
+      },
+      "id": "way/262551676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262551686",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "secondary",
+        "lanes": "6",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0640154,
+            47.5262407
+          ],
+          [
+            19.064062,
+            47.5263524
+          ],
+          [
+            19.0644918,
+            47.5273761
+          ]
+        ]
+      },
+      "id": "way/262551686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265344795",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "lit": "yes",
+        "oneway": "yes",
+        "segregated": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0577477,
+            47.5259802
+          ],
+          [
+            19.0571448,
+            47.5261171
+          ],
+          [
+            19.0570362,
+            47.5260991
+          ]
+        ]
+      },
+      "id": "way/265344795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265344796",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "lit": "yes",
+        "oneway": "yes",
+        "segregated": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0581912,
+            47.5258811
+          ],
+          [
+            19.0577477,
+            47.5259802
+          ]
+        ]
+      },
+      "id": "way/265344796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285491703",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "name": "Angyalföldi út",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0672179,
+            47.5291754
+          ],
+          [
+            19.0668983,
+            47.5284556
+          ],
+          [
+            19.0667371,
+            47.5280889
+          ]
+        ]
+      },
+      "id": "way/285491703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288215782",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0591875,
+            47.5273674
+          ],
+          [
+            19.0589759,
+            47.5274166
+          ]
+        ]
+      },
+      "id": "way/288215782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288215784",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0583494,
+            47.5275684
+          ],
+          [
+            19.0581289,
+            47.5276239
+          ],
+          [
+            19.0578347,
+            47.5276927
+          ]
+        ]
+      },
+      "id": "way/288215784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299630715",
+        "highway": "residential",
+        "name": "Klapka utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0662657,
+            47.5270169
+          ],
+          [
+            19.0646542,
+            47.5273432
+          ]
+        ]
+      },
+      "id": "way/299630715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299662405",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0626852,
+            47.5247062
+          ],
+          [
+            19.0632884,
+            47.5245619
+          ]
+        ]
+      },
+      "id": "way/299662405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316080347",
+        "highway": "residential",
+        "name": "Angyalföldi út",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0667371,
+            47.5280889
+          ],
+          [
+            19.0662657,
+            47.5270169
+          ]
+        ]
+      },
+      "id": "way/316080347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316080729",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "service",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.063858,
+            47.5258667
+          ],
+          [
+            19.0640839,
+            47.5261186
+          ],
+          [
+            19.0641657,
+            47.5262097
+          ]
+        ]
+      },
+      "id": "way/316080729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317290300",
+        "highway": "residential",
+        "name": "Dunyov István utca",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0656017,
+            47.5295122
+          ],
+          [
+            19.0654226,
+            47.5295534
+          ]
+        ]
+      },
+      "id": "way/317290300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317290303",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "service",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0656017,
+            47.5295122
+          ],
+          [
+            19.0657078,
+            47.5297706
+          ]
+        ]
+      },
+      "id": "way/317290303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319696899",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0625022,
+            47.5301082
+          ],
+          [
+            19.0625188,
+            47.5301463
+          ]
+        ]
+      },
+      "id": "way/319696899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319976317",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.061211,
+            47.5246562
+          ],
+          [
+            19.0611011,
+            47.5246759
+          ]
+        ]
+      },
+      "id": "way/319976317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319976324",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0633374,
+            47.5276067
+          ],
+          [
+            19.063347,
+            47.5276252
+          ]
+        ]
+      },
+      "id": "way/319976324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319976331",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.061239,
+            47.5247119
+          ],
+          [
+            19.0611289,
+            47.5247332
+          ]
+        ]
+      },
+      "id": "way/319976331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319976334",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0610935,
+            47.5270076
+          ],
+          [
+            19.0610493,
+            47.526927
+          ]
+        ]
+      },
+      "id": "way/319976334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319976337",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0660883,
+            47.5264082
+          ],
+          [
+            19.0660054,
+            47.5264254
+          ]
+        ]
+      },
+      "id": "way/319976337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333902731",
+        "highway": "residential",
+        "name": "Huba utca",
+        "oneway": "yes",
+        "parking:condition:left": "ticket",
+        "parking:condition:left:time_interval": "Mo-Fr 08:30-18:00",
+        "parking:condition:right": "ticket",
+        "parking:condition:right:time_interval": "Mo-Fr 08:30-18:00",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0678673,
+            47.5245436
+          ],
+          [
+            19.0680869,
+            47.524406
+          ],
+          [
+            19.069291,
+            47.5236007
+          ]
+        ]
+      },
+      "id": "way/333902731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335740599",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0589759,
+            47.5274166
+          ],
+          [
+            19.0583494,
+            47.5275684
+          ]
+        ]
+      },
+      "id": "way/335740599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344738660",
+        "highway": "residential",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "name": "Visegrádi utca",
+        "trolley_wire": "no",
+        "turn:lanes:backward": "left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0613252,
+            47.5251285
+          ],
+          [
+            19.0613485,
+            47.525173
+          ],
+          [
+            19.0615864,
+            47.5256162
+          ],
+          [
+            19.0617042,
+            47.5258358
+          ],
+          [
+            19.0620544,
+            47.5266403
+          ],
+          [
+            19.0620716,
+            47.5266787
+          ]
+        ]
+      },
+      "id": "way/344738660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344738661",
+        "foot": "designated",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "lit": "yes",
+        "oneway": "yes",
+        "segregated": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0613252,
+            47.5251285
+          ],
+          [
+            19.0602464,
+            47.5253883
+          ],
+          [
+            19.0600954,
+            47.5254081
+          ],
+          [
+            19.0594268,
+            47.5255631
+          ],
+          [
+            19.0589893,
+            47.5256671
+          ],
+          [
+            19.058878,
+            47.5256938
+          ],
+          [
+            19.058256,
+            47.5258429
+          ],
+          [
+            19.0581912,
+            47.5258811
+          ]
+        ]
+      },
+      "id": "way/344738661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344739188",
+        "foot": "designated",
+        "highway": "cycleway",
+        "segregated": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0570362,
+            47.5260991
+          ],
+          [
+            19.0569963,
+            47.526157
+          ],
+          [
+            19.0577727,
+            47.527707
+          ]
+        ]
+      },
+      "id": "way/344739188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361147480",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0595561,
+            47.5272776
+          ],
+          [
+            19.0593729,
+            47.5273218
+          ],
+          [
+            19.0591875,
+            47.5273674
+          ]
+        ]
+      },
+      "id": "way/361147480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361147487",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0608089,
+            47.5269826
+          ],
+          [
+            19.0607132,
+            47.527005
+          ],
+          [
+            19.0601735,
+            47.5271339
+          ],
+          [
+            19.0601151,
+            47.5271475
+          ]
+        ]
+      },
+      "id": "way/361147487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361817405",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Párkány utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0604169,
+            47.5292926
+          ],
+          [
+            19.0596682,
+            47.5274926
+          ],
+          [
+            19.0596467,
+            47.5274539
+          ],
+          [
+            19.0595561,
+            47.5272776
+          ]
+        ]
+      },
+      "id": "way/361817405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368629552",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0661373,
+            47.5267252
+          ],
+          [
+            19.0662085,
+            47.5267113
+          ]
+        ]
+      },
+      "id": "way/368629552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374499905",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Angyalföldi út",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0657652,
+            47.5258798
+          ],
+          [
+            19.0653961,
+            47.525041
+          ]
+        ]
+      },
+      "id": "way/374499905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374499906",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Csángó utca",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0657652,
+            47.5258798
+          ],
+          [
+            19.0641657,
+            47.5262097
+          ],
+          [
+            19.0640154,
+            47.5262407
+          ]
+        ]
+      },
+      "id": "way/374499906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374499907",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "oneway": "yes",
+        "oneway:bicycle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0564003,
+            47.5280272
+          ],
+          [
+            19.0565392,
+            47.5279834
+          ],
+          [
+            19.0577727,
+            47.527707
+          ],
+          [
+            19.0578347,
+            47.5276927
+          ]
+        ]
+      },
+      "id": "way/374499907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/444586459",
+        "highway": "residential",
+        "lcn": "proposed",
+        "maxspeed": "30",
+        "name": "Esztergomi út"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0608089,
+            47.5269826
+          ],
+          [
+            19.0608299,
+            47.5270533
+          ],
+          [
+            19.061261,
+            47.5280049
+          ],
+          [
+            19.0617151,
+            47.5290779
+          ],
+          [
+            19.0620899,
+            47.5299668
+          ],
+          [
+            19.0621758,
+            47.5301702
+          ],
+          [
+            19.0629292,
+            47.5319786
+          ],
+          [
+            19.0629806,
+            47.5321113
+          ],
+          [
+            19.0630241,
+            47.5321751
+          ]
+        ]
+      },
+      "id": "way/444586459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/444709020",
+        "alt_name:de": "Waitzener Gasse",
+        "bridge": "viaduct",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "70",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.065904,
+            47.5306167
+          ],
+          [
+            19.066313,
+            47.5315602
+          ]
+        ]
+      },
+      "id": "way/444709020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446655273",
+        "highway": "service",
+        "oneway": "yes",
+        "service": "parking_aisle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0641646,
+            47.5270538
+          ],
+          [
+            19.0638946,
+            47.5264152
+          ],
+          [
+            19.0638354,
+            47.5262753
+          ],
+          [
+            19.0637463,
+            47.5256014
+          ]
+        ]
+      },
+      "id": "way/446655273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/457320895",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0601151,
+            47.5271475
+          ],
+          [
+            19.0597971,
+            47.5272201
+          ]
+        ]
+      },
+      "id": "way/457320895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462429543",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Révész utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0597971,
+            47.5272201
+          ],
+          [
+            19.0595561,
+            47.5272776
+          ]
+        ]
+      },
+      "id": "way/462429543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475719773",
+        "cutting": "yes",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0632494,
+            47.5251655
+          ],
+          [
+            19.0631703,
+            47.524988
+          ]
+        ]
+      },
+      "id": "way/475719773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475719897",
+        "highway": "steps",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.06366,
+            47.5247928
+          ],
+          [
+            19.0636346,
+            47.5247416
+          ]
+        ]
+      },
+      "id": "way/475719897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475719993",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0627039,
+            47.5247541
+          ],
+          [
+            19.0627254,
+            47.5247993
+          ]
+        ]
+      },
+      "id": "way/475719993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475720976",
+        "highway": "steps"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0627254,
+            47.5247993
+          ],
+          [
+            19.0628218,
+            47.524782
+          ]
+        ]
+      },
+      "id": "way/475720976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/476308619",
+        "footway": "sidewalk",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0626852,
+            47.5247062
+          ],
+          [
+            19.0627039,
+            47.5247541
+          ]
+        ]
+      },
+      "id": "way/476308619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/478889463",
+        "highway": "residential",
+        "maxspeed": "50",
+        "name": "Kárpát utca",
+        "trolley_wire": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0571926,
+            47.5263999
+          ],
+          [
+            19.0578347,
+            47.5276927
+          ]
+        ]
+      },
+      "id": "way/478889463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490162031",
+        "highway": "residential",
+        "lcn": "proposed",
+        "name": "Pannónia utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0591297,
+            47.5259288
+          ],
+          [
+            19.0593205,
+            47.5262758
+          ],
+          [
+            19.0597971,
+            47.5272201
+          ]
+        ]
+      },
+      "id": "way/490162031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490162033",
+        "highway": "cycleway",
+        "lcn": "yes",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0626107,
+            47.524724
+          ],
+          [
+            19.0625497,
+            47.5248645
+          ]
+        ]
+      },
+      "id": "way/490162033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/491617400",
+        "highway": "secondary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Dráva utca",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0626107,
+            47.524724
+          ],
+          [
+            19.0626852,
+            47.5247062
+          ]
+        ]
+      },
+      "id": "way/491617400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/516392056",
+        "cycleway:surface": "paving_stones",
+        "foot": "designated",
+        "footway:surface": "asphalt",
+        "highway": "cycleway",
+        "lit": "yes",
+        "segregated": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0697119,
+            47.5304231
+          ],
+          [
+            19.0696087,
+            47.5304946
+          ],
+          [
+            19.0690656,
+            47.5308578
+          ],
+          [
+            19.0685916,
+            47.5311554
+          ],
+          [
+            19.0683236,
+            47.5313181
+          ]
+        ]
+      },
+      "id": "way/516392056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543402413",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0651865,
+            47.5245809
+          ],
+          [
+            19.0650696,
+            47.5246052
+          ],
+          [
+            19.065016,
+            47.5246164
+          ]
+        ]
+      },
+      "id": "way/543402413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543402415",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0627254,
+            47.5247993
+          ],
+          [
+            19.0625497,
+            47.5248645
+          ]
+        ]
+      },
+      "id": "way/543402415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543402418",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0644558,
+            47.5249215
+          ],
+          [
+            19.0644161,
+            47.524841
+          ],
+          [
+            19.0641211,
+            47.5248953
+          ],
+          [
+            19.0638028,
+            47.5247999
+          ],
+          [
+            19.0647815,
+            47.5246028
+          ]
+        ]
+      },
+      "id": "way/543402418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543402419",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0639114,
+            47.5253535
+          ],
+          [
+            19.0637161,
+            47.5249179
+          ],
+          [
+            19.06366,
+            47.5247928
+          ]
+        ]
+      },
+      "id": "way/543402419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543402420",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0647517,
+            47.5236515
+          ],
+          [
+            19.0646602,
+            47.5237289
+          ],
+          [
+            19.0643455,
+            47.5240988
+          ],
+          [
+            19.0643109,
+            47.5241412
+          ],
+          [
+            19.0640889,
+            47.5244135
+          ],
+          [
+            19.0639935,
+            47.5245423
+          ],
+          [
+            19.0639873,
+            47.5245507
+          ],
+          [
+            19.0638028,
+            47.5247999
+          ],
+          [
+            19.0637161,
+            47.5249179
+          ]
+        ]
+      },
+      "id": "way/543402420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592775586",
+        "highway": "residential",
+        "name": "Süllő utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0634936,
+            47.5299199
+          ],
+          [
+            19.0625022,
+            47.5301082
+          ],
+          [
+            19.0621758,
+            47.5301702
+          ]
+        ]
+      },
+      "id": "way/592775586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592775588",
+        "highway": "residential",
+        "name": "Visegrádi utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0634936,
+            47.5299199
+          ],
+          [
+            19.0639838,
+            47.5310466
+          ],
+          [
+            19.0640293,
+            47.5311583
+          ],
+          [
+            19.0640928,
+            47.5312962
+          ],
+          [
+            19.0641702,
+            47.5314641
+          ]
+        ]
+      },
+      "id": "way/592775588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610487407",
+        "highway": "platform"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0576507,
+            47.5301385
+          ],
+          [
+            19.0575922,
+            47.5300104
+          ]
+        ]
+      },
+      "id": "way/610487407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610504648",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0581146,
+            47.5310669
+          ],
+          [
+            19.0583354,
+            47.5310193
+          ]
+        ]
+      },
+      "id": "way/610504648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610504650",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0581146,
+            47.5310669
+          ],
+          [
+            19.0590872,
+            47.5330812
+          ],
+          [
+            19.0592763,
+            47.5333499
+          ],
+          [
+            19.0594403,
+            47.5334172
+          ]
+        ]
+      },
+      "id": "way/610504650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610504651",
+        "highway": "platform"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.057741,
+            47.530785
+          ],
+          [
+            19.0578066,
+            47.5309233
+          ]
+        ]
+      },
+      "id": "way/610504651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617581297",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "yes",
+        "source:maxspeed": "sign"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0641657,
+            47.5262097
+          ],
+          [
+            19.0646542,
+            47.5273432
+          ]
+        ]
+      },
+      "id": "way/617581297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617581298",
+        "alt_name:de": "Waitzener Gasse",
+        "highway": "service",
+        "name": "Váci út",
+        "name:de": "Waiznergasse",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0646542,
+            47.5273432
+          ],
+          [
+            19.0650993,
+            47.5284135
+          ],
+          [
+            19.0656017,
+            47.5295122
+          ]
+        ]
+      },
+      "id": "way/617581298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626146759",
+        "footway": "sidewalk",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0632494,
+            47.5251655
+          ],
+          [
+            19.0634194,
+            47.5254575
+          ],
+          [
+            19.0637383,
+            47.5261921
+          ]
+        ]
+      },
+      "id": "way/626146759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626146760",
+        "crossing_ref": "zebra",
+        "footway": "crossing",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0637383,
+            47.5261921
+          ],
+          [
+            19.0637726,
+            47.5262902
+          ],
+          [
+            19.0637937,
+            47.5263504
+          ]
+        ]
+      },
+      "id": "way/626146760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626146761",
+        "footway": "sidewalk",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0637937,
+            47.5263504
+          ],
+          [
+            19.0638837,
+            47.5265652
+          ]
+        ]
+      },
+      "id": "way/626146761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689388451",
+        "access": "no",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0639838,
+            47.5310466
+          ],
+          [
+            19.0637294,
+            47.5312422
+          ],
+          [
+            19.0636382,
+            47.5314523
+          ],
+          [
+            19.0638205,
+            47.5318525
+          ],
+          [
+            19.0638832,
+            47.531882
+          ],
+          [
+            19.0640897,
+            47.5318511
+          ],
+          [
+            19.0641353,
+            47.531786
+          ],
+          [
+            19.0641222,
+            47.5317517
+          ],
+          [
+            19.0639783,
+            47.5313976
+          ],
+          [
+            19.063961,
+            47.531355
+          ],
+          [
+            19.0640293,
+            47.5311583
+          ]
+        ]
+      },
+      "id": "way/689388451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/725902223",
+        "highway": "steps",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0628218,
+            47.524782
+          ],
+          [
+            19.062953,
+            47.5247557
+          ]
+        ]
+      },
+      "id": "way/725902223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/725902224",
+        "cutting": "yes",
+        "highway": "footway",
+        "ref": "F",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0631703,
+            47.524988
+          ],
+          [
+            19.0631332,
+            47.5248968
+          ]
+        ]
+      },
+      "id": "way/725902224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/732480610",
+        "highway": "residential",
+        "name": "Dunyov István utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0672179,
+            47.5291754
+          ],
+          [
+            19.0656017,
+            47.5295122
+          ]
+        ]
+      },
+      "id": "way/732480610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/732480611",
+        "footway": "sidewalk",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0679143,
+            47.5297104
+          ],
+          [
+            19.0680011,
+            47.5297931
+          ]
+        ]
+      },
+      "id": "way/732480611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/732480612",
+        "footway": "sidewalk",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0684169,
+            47.5300871
+          ],
+          [
+            19.0686214,
+            47.5306976
+          ]
+        ]
+      },
+      "id": "way/732480612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/792088828",
+        "crossing": "marked",
+        "footway": "crossing",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0588149,
+            47.5255767
+          ],
+          [
+            19.058878,
+            47.5256938
+          ]
+        ]
+      },
+      "id": "way/792088828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227983",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0649914,
+            47.5245601
+          ],
+          [
+            19.0650438,
+            47.5245495
+          ],
+          [
+            19.0649484,
+            47.5243452
+          ],
+          [
+            19.0646602,
+            47.5237289
+          ]
+        ]
+      },
+      "id": "way/853227983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227984",
+        "highway": "footway",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0647815,
+            47.5246028
+          ],
+          [
+            19.0649914,
+            47.5245601
+          ]
+        ]
+      },
+      "id": "way/853227984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227985",
+        "highway": "service"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0652397,
+            47.5246977
+          ],
+          [
+            19.0651239,
+            47.5247224
+          ],
+          [
+            19.0650685,
+            47.5247343
+          ]
+        ]
+      },
+      "id": "way/853227985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227986",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0650438,
+            47.5245495
+          ],
+          [
+            19.0650696,
+            47.5246052
+          ],
+          [
+            19.0651113,
+            47.5246952
+          ],
+          [
+            19.0651239,
+            47.5247224
+          ],
+          [
+            19.065283,
+            47.5250648
+          ]
+        ]
+      },
+      "id": "way/853227986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227987",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0644161,
+            47.524841
+          ],
+          [
+            19.0648488,
+            47.5247508
+          ]
+        ]
+      },
+      "id": "way/853227987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227988",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.065056,
+            47.5247068
+          ],
+          [
+            19.0651113,
+            47.5246952
+          ]
+        ]
+      },
+      "id": "way/853227988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853227989",
+        "highway": "footway",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0648488,
+            47.5247508
+          ],
+          [
+            19.0649428,
+            47.5247309
+          ],
+          [
+            19.065056,
+            47.5247068
+          ]
+        ]
+      },
+      "id": "way/853227989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/854311679",
+        "highway": "service",
+        "service": "alley",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0598754,
+            47.5308301
+          ],
+          [
+            19.0599428,
+            47.5309849
+          ],
+          [
+            19.0596207,
+            47.5310457
+          ]
+        ]
+      },
+      "id": "way/854311679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882706163",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0636757,
+            47.5246045
+          ],
+          [
+            19.0639873,
+            47.5245507
+          ]
+        ]
+      },
+      "id": "way/882706163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882706164",
+        "highway": "footway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.063756,
+            47.5244412
+          ],
+          [
+            19.0639935,
+            47.5245423
+          ]
+        ]
+      },
+      "id": "way/882706164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/896134143",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "70",
+        "name": "Róbert Károly körút",
+        "oneway": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "turn:lanes": "reverse;left|through|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0686009,
+            47.5312421
+          ],
+          [
+            19.0694587,
+            47.530712
+          ],
+          [
+            19.0696873,
+            47.5305707
+          ]
+        ]
+      },
+      "id": "way/896134143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908377254",
+        "highway": "residential",
+        "name": "Véső utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0617151,
+            47.5290779
+          ],
+          [
+            19.0630104,
+            47.528817
+          ]
+        ]
+      },
+      "id": "way/908377254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/918650673",
+        "highway": "residential",
+        "name": "Klapka utca"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.0646542,
+            47.5273432
+          ],
+          [
+            19.0644918,
+            47.5273761
+          ]
+        ]
+      },
+      "id": "way/918650673"
+    }
+  ]
+}
