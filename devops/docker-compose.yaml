@@ -1,10 +1,14 @@
 version: "3"
 
 services:
+
   db:
     container_name: roads_db
     image: kartoza/postgis
+    ports:
+      - 5433:5432
     environment:
       DEFAULT_ENCODING: "UTF8"
       POSTGRES_DBNAME: "roads"
       POSTGRES_USER: "postgres"
+      POSTGRES_PASS: "${PG_PASSWORD}"
